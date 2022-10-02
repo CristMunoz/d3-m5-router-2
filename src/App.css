@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.active {
+  text-decoration: none;
+  color: rgb(205, 33, 33);
+}
+
+.inactive {
+  text-decoration: none;
+  color: rgb(200, 195, 195);
+}
